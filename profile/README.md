@@ -22,7 +22,7 @@
 
 **Roepard Labs** es una organización dedicada al desarrollo de soluciones innovadoras que combinan **Realidad Aumentada (AR)**, **Realidad Virtual (VR)** y **tecnologías web modernas** para transformar la educación y la experiencia de aprendizaje.
 
-Nuestro proyecto insignia, **HomeLab AR**, es una plataforma educativa inmersiva diseñada para la **IE Liceo León de Greiff**, que permite a los estudiantes desplegar y gestionar servicios virtuales de homelab en entornos del mundo real.
+Nuestro proyecto insignia, **HomeLab AR**, es una plataforma educativa inmersiva diseñada para la **UAM**, que permite a los estudiantes desplegar y gestionar servicios virtuales de homelab en entornos del mundo real.
 
 ---
 
@@ -341,7 +341,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 Agradecemos especialmente a:
 
-- **IE Liceo León de Greiff** por creer en nuestro proyecto
+- **Universidad Autonoma de Manizales** por creer en nuestro proyecto
 - La comunidad de **A-Frame** por sus increíbles herramientas
 - Todos los **contribuidores** que hacen esto posible
 - La comunidad **open source** por inspirarnos
